@@ -1,0 +1,5 @@
+C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MaindBoxApp.exe.config
+C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MaindBoxApp.exe
+C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MaindBoxApp.pdb
+C:\Projects\MaindBox\MaindBoxApp\obj\Debug\MaindBoxApp.exe
+C:\Projects\MaindBox\MaindBoxApp\obj\Debug\MaindBoxApp.pdb
