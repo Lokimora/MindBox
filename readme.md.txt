@@ -1,4 +1,4 @@
-1)Сложность O(n)
+1)Сложность O(n), т.к. ищем в словаре у которого и так по поиску О(1)
 
 2) SELECT ProductId, COUNT(ProductId) FROM SALES s1
 INNER JOIN
