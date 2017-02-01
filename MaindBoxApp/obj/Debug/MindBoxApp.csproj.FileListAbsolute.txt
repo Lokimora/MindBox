@@ -3,3 +3,6 @@ C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MaindBoxApp.exe
 C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MaindBoxApp.pdb
 C:\Projects\MaindBox\MaindBoxApp\obj\Debug\MaindBoxApp.exe
 C:\Projects\MaindBox\MaindBoxApp\obj\Debug\MaindBoxApp.pdb
+C:\Projects\MaindBox\MaindBoxApp\obj\Debug\MindBoxApp.csprojResolveAssemblyReference.cache
+C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MindBoxDomain.dll
+C:\Projects\MaindBox\MaindBoxApp\bin\Debug\MindBoxDomain.pdb

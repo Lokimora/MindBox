@@ -1,0 +1,8 @@
+C:\Projects\MaindBox\MindBoxTests\bin\Debug\MindBoxTests.dll
+C:\Projects\MaindBox\MindBoxTests\bin\Debug\MindBoxTests.pdb
+C:\Projects\MaindBox\MindBoxTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\MaindBox\MindBoxTests\obj\Debug\MindBoxTests.csprojResolveAssemblyReference.cache
+C:\Projects\MaindBox\MindBoxTests\obj\Debug\MindBoxTests.dll
+C:\Projects\MaindBox\MindBoxTests\obj\Debug\MindBoxTests.pdb
+C:\Projects\MaindBox\MindBoxTests\bin\Debug\MindBoxDomain.dll
+C:\Projects\MaindBox\MindBoxTests\bin\Debug\MindBoxDomain.pdb

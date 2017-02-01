@@ -1,10 +1,11 @@
-﻿using System;
+﻿using MaindBoxDomain.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MaindBoxApp
+namespace MindBoxDomain.Helpers
 {
     public static class TicketHelper
     {
@@ -65,6 +66,24 @@ namespace MaindBoxApp
                 tickets[n] = value;
             }
         }
+
+        public static bool IsOrdered(Ticket[] tickets)
+        {
+            int count = tickets.Count();
+
+            if (count < 2)
+                return true;
+
+            for(int i = 1; i < tickets.Count() - 1; i++)
+            {
+
+                if(String.Compare(tickets[i - 1].To, tickets[i].From, true) != 0)
+                    return false;
+  
+            }
+
+            return true;
+        } 
 
 
     }

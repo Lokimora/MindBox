@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using MindBoxDomain.Helpers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,15 +10,19 @@ namespace MaindBoxApp
 {
     class Program
     {
+        
+
         static void Main(string[] args)
         {
+
+
             var tickets = TicketHelper.GenerateTickets();
 
             TicketHelper.DisplayTickets(tickets);
 
             Console.WriteLine("****-------------------------*****");
 
-            var sorted = TicketSortManager.StupidSort(tickets);
+            var sorted = TicketSortManager.Sort(tickets);
 
             TicketHelper.DisplayTickets(sorted);
         }

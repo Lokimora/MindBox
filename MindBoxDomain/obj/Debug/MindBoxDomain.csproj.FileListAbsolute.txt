@@ -1,0 +1,5 @@
+C:\Projects\MaindBox\MindBoxDomain\bin\Debug\MindBoxDomain.dll
+C:\Projects\MaindBox\MindBoxDomain\bin\Debug\MindBoxDomain.pdb
+C:\Projects\MaindBox\MindBoxDomain\obj\Debug\MindBoxDomain.csprojResolveAssemblyReference.cache
+C:\Projects\MaindBox\MindBoxDomain\obj\Debug\MindBoxDomain.dll
+C:\Projects\MaindBox\MindBoxDomain\obj\Debug\MindBoxDomain.pdb

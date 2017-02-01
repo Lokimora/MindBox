@@ -1,0 +1,4 @@
+C:\Projects\MaindBox\MindBoxDomain\bin\Release\MindBoxDomain.dll
+C:\Projects\MaindBox\MindBoxDomain\bin\Release\MindBoxDomain.pdb
+C:\Projects\MaindBox\MindBoxDomain\obj\Release\MindBoxDomain.dll
+C:\Projects\MaindBox\MindBoxDomain\obj\Release\MindBoxDomain.pdb
